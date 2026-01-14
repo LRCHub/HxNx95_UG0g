@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "踊る魔法に観る魔法",
+  "base_artist": "流石知冴 (CV.佐々木李子)",
+  "createdAt": "2026-01-14T08:02:17.613721Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "踊る魔法に観る魔法",
+      "artist": "流石知冴 (CV.佐々木李子)",
+      "has_synced": false,
+      "path": "select/pl_01_踊る魔法に観る魔法_流石知冴_(CV.佐々木李子).txt"
+    }
+  ]
+}
